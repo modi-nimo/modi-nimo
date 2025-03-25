@@ -15,7 +15,7 @@ I find immense satisfaction in crafting small POCs and mini-projects during my f
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=modi-nimo&theme=dracula">
-  <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=modi-nimo&theme=dracula"> -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=modi-nimo&theme=dracula"> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=modi-nimo&theme=dracula">
 </p>
 
