@@ -21,20 +21,15 @@ I find immense satisfaction in crafting small POCs and mini-projects during my f
 
 
  ## My Stack, IDE and Text Editor
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white) ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-%23FF9900.svg?style=for-the-badge&logo=googlegemini&logoColor=white) ![Langchain](https://img.shields.io/badge/langchain-%23323330.svg?style=for-the-badge&logo=langchain&logoColor=%23F7DF1E) ![Langgraph](https://img.shields.io/badge/langgraph-%23E34F26.svg?style=for-the-badge&logo=langgraph&logoColor=white)
  
- <p align="left">
-  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/fastapi-%23000.svg?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Gemini-%23FF9900.svg?style=for-the-badge&logo=googlegemini&logoColor=white">
-  <img src="https://img.shields.io/badge/langchain-%23323330.svg?style=for-the-badge&logo=langchain&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/langgraph-%23E34F26.svg?style=for-the-badge&logo=langgraph&logoColor=white">
- </p>
+ 
 
  ## Let's Connect!
 I'm actively seeking opportunities to collaborate on Python and GenAI related projects and connect with fellow enthusiasts. If you're interested in working together, sharing ideas, or simply having a chat about Python or GenAI, feel free to reach out!
+
+- 📫 How to reach me **modinishant90@gmail.com**
 
  ## Where to find me
  
