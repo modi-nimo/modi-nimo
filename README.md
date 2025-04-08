@@ -1,6 +1,9 @@
 ## Hi there👋, I'm Nishant!
 <img src="https://komarev.com/ghpvc/?username=modi-nimo&style=for-the-badge">
 
+
+<img src="https://raw.githubusercontent.com/modi-nimo/modi-nimo/refs/heads/main/NishantModiRefined.png" alt="My Badge" />
+
 A Technical Lead with a deep passion for Python, currently based in the vibrant city of Pune, India.
 
 ## About Me
